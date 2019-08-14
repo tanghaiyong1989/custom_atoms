@@ -14,7 +14,7 @@ DATABASES = {
         'NAME': 'class_db_prod',                        # 数据库名 (默认与APP_ID相同)
         'USER': 'root',                            # 你的数据库user
         'PASSWORD': '123456',                        # 你的数据库password
-        'HOST': '127.0.0.1',                   		   # 数据库HOST
+        'HOST': '172.16.127.33',                   		   # 数据库HOST
         'PORT': '3306',                        # 默认3306
     },
 }
